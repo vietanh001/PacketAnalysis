@@ -1,0 +1,21 @@
+Source Address,Destination Address,Source Port,Destination Port,Length,Protol
+34.149.107.147,192.168.1.4,443,49653,77,UDP
+192.168.1.4,34.149.107.147,49653,443,61,UDP
+34.149.107.147,192.168.1.4,443,49653,75,UDP
+192.168.1.4,34.149.107.147,49653,443,61,UDP
+34.149.107.147,192.168.1.4,443,49653,77,UDP
+192.168.1.4,34.149.107.147,49653,443,61,UDP
+74.116.171.208,181.121.158.48,Other,Other,57938,Other
+74.116.171.208,181.121.158.48,Other,Other,10242,Other
+74.116.171.208,181.121.158.48,Other,Other,5973,Other
+0.38.0.0,0.0.0.0,Other,Other,0,Other
+0.38.0.0,0.0.0.0,Other,Other,0,Other
+0.38.0.0,0.0.0.0,Other,Other,0,Other
+74.116.171.208,181.121.158.48,Other,Other,15748,Other
+74.116.171.208,181.121.158.48,Other,Other,15748,Other
+74.116.171.208,181.121.158.48,Other,Other,15748,Other
+64.5.8.17,0.0.0.0,Other,Other,0,Other
+64.5.8.17,0.0.0.0,Other,Other,0,Other
+64.5.8.17,0.0.0.0,Other,Other,0,Other
+64.5.8.17,0.0.0.0,Other,Other,0,Other
+64.5.8.17,0.0.0.0,Other,Other,0,Other
